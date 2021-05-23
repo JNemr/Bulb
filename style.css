@@ -1,0 +1,43 @@
+body {
+    background-color:grey;
+    align-items: center;
+}
+
+.mount {
+    width: 500px;
+    margin-left:30%;
+    
+}
+.mount1 {
+    width: 70px;
+    height: 40px;
+    
+}
+.unmount{
+    width: 70px;
+    height: 40px;
+    margin-left: 71%;
+}
+.pic{
+    width:250px;
+    height: 430px;
+    margin-left: 41%;
+    margin-top:2%;
+    
+}
+.switch{
+    width: 500px;
+    margin-left:30%;
+    margin-top: 2%;
+}
+.on{
+    width: 70px;
+    height: 40px;
+    
+}
+.off{
+    width: 70px;
+    height: 40px;
+    margin-left: 86%;
+    margin-top:-40px;
+}
